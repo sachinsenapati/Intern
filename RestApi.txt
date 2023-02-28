@@ -1,7 +1,0 @@
-mongodb+srv://Sachin:<password>@cluster0.9nisq0e.mongodb.net/?retryWrites=true&w=majority
-git push heroku master
-heroku create
-heroku logs --tail
-
-
-https://documenter.getpostman.com/view/21463527/2s8YYCt5Fm
